@@ -194,5 +194,145 @@
     "type": "nitter",
     "url": "https://nitter.privacydev.net/DefenceHQ/rss",
     "enabled": false
+  },
+  {
+    "id": "dw-middleeast-rss",
+    "name": "Deutsche Welle Middle East RSS",
+    "type": "rss",
+    "url": "https://rss.dw.com/rdf/rss-en-mid",
+    "enabled": true
+  },
+  {
+    "id": "wsj-middleeast-rss",
+    "name": "Wall Street Journal Middle East RSS",
+    "type": "rss",
+    "url": "https://feeds.a.dj.com/rss/RSSMiddleEast.xml",
+    "enabled": true
+  },
+  {
+    "id": "ft-world-rss",
+    "name": "Financial Times World RSS",
+    "type": "rss",
+    "url": "https://www.ft.com/world?format=rss",
+    "enabled": true
+  },
+  {
+    "id": "csis-mideast-rss",
+    "name": "Center for Strategic & International Studies RSS",
+    "type": "rss",
+    "url": "https://www.csis.org/regions/middle-east/feed",
+    "enabled": true
+  },
+  {
+    "id": "cfr-middleeast-rss",
+    "name": "Council on Foreign Relations Middle East RSS",
+    "type": "rss",
+    "url": "https://www.cfr.org/feed/middle-east-and-north-africa",
+    "enabled": true
+  },
+  {
+    "id": "chathamhouse-mena-rss",
+    "name": "Chatham House Middle East & North Africa RSS",
+    "type": "rss",
+    "url": "https://www.chathamhouse.org/taxonomy/term/36/feed",
+    "enabled": true
+  },
+  {
+    "id": "thearabweekly-rss",
+    "name": "The Arab Weekly RSS",
+    "type": "rss",
+    "url": "https://thearabweekly.com/rss.xml",
+    "enabled": true
+  },
+  {
+    "id": "middleeastmonitor-rss",
+    "name": "Middle East Monitor RSS",
+    "type": "rss",
+    "url": "https://www.middleeastmonitor.com/feed/",
+    "enabled": true
+  },
+  {
+    "id": "washingtoninstitute-rss",
+    "name": "Washington Institute for Near East Policy RSS",
+    "type": "rss",
+    "url": "https://www.washingtoninstitute.org/rss.xml",
+    "enabled": true
+  },
+  {
+    "id": "icrc-middleeast-rss",
+    "name": "International Committee of the Red Cross Middle East RSS",
+    "type": "rss",
+    "url": "https://www.icrc.org/en/where-we-work/middle-east.rss",
+    "enabled": true
+  },
+  {
+    "id": "voa-middleeast-rss",
+    "name": "Voice of America Middle East RSS",
+    "type": "rss",
+    "url": "https://www.voanews.com/api/ziqq$eqpim",
+    "enabled": true
+  },
+  {
+    "id": "janes-middleeast-rss",
+    "name": "Janes Defence & Security RSS",
+    "type": "rss",
+    "url": "https://www.janes.com/feeds/defence-security-news",
+    "enabled": true
+  },
+  {
+    "id": "rand-middleeast-rss",
+    "name": "RAND Corporation Middle East RSS",
+    "type": "rss",
+    "url": "https://www.rand.org/news/press/middle-east.xml",
+    "enabled": true
+  },
+  {
+    "id": "mei-rss",
+    "name": "Middle East Institute RSS",
+    "type": "rss",
+    "url": "https://www.mei.edu/publications.rss",
+    "enabled": true
+  },
+  {
+    "id": "brookings-middleeast-rss",
+    "name": "Brookings Institution Middle East RSS",
+    "type": "rss",
+    "url": "https://www.brookings.edu/topic/middle-east/feed/",
+    "enabled": true
+  },
+  {
+    "id": "carnegie-middleeast-rss",
+    "name": "Carnegie Endowment Middle East RSS",
+    "type": "rss",
+    "url": "https://carnegieendowment.org/regions/middle-east?format=rss",
+    "enabled": true
+  },
+  {
+    "id": "iiss-rss",
+    "name": "International Institute for Strategic Studies RSS",
+    "type": "rss",
+    "url": "https://www.iiss.org/feed/",
+    "enabled": true
+  },
+  {
+    "id": "fpri-middleeast-rss",
+    "name": "Foreign Policy Research Institute Middle East RSS",
+    "type": "rss",
+    "url": "https://www.fpri.org/regions/middle-east/feed/",
+    "enabled": true
+  },
+  {
+    "id": "justsecurity-rss",
+    "name": "Just Security RSS",
+    "type": "rss",
+    "url": "https://www.justsecurity.org/feed/",
+    "enabled": true
+  },
+  {
+    "id": "stimson-rss",
+    "name": "Stimson Center RSS",
+    "type": "rss",
+    "url": "https://www.stimson.org/feed/",
+    "enabled": true
   }
 ]
